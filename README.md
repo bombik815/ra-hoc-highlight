@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/79cvo2m0l1ytulr8/branch/main?svg=true)](https://ci.appveyor.com/project/bombik815/ra-hoc-highlight/branch/main)
 
 [Подсвечивание блоков](https://bombik815.github.io/ra-hoc-highlight/)
 
