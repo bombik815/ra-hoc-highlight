@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-hoc-highlight/static/css/main.ccd07e36.css",
+    "main.js": "/ra-hoc-highlight/static/js/main.ebf280d8.js",
+    "index.html": "/ra-hoc-highlight/index.html",
+    "main.ccd07e36.css.map": "/ra-hoc-highlight/static/css/main.ccd07e36.css.map",
+    "main.ebf280d8.js.map": "/ra-hoc-highlight/static/js/main.ebf280d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccd07e36.css",
+    "static/js/main.ebf280d8.js"
+  ]
+}
